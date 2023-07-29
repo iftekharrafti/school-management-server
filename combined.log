@@ -1,0 +1,6 @@
+{"level":"info","message":"Database is connected successfully","service":"user-service"}
+{"level":"info","message":"Application listening on port 5000","service":"user-service"}
+{"level":"info","message":"Database is connected successfully","service":"user-service"}
+{"level":"info","message":"Application listening on port 5000","service":"user-service"}
+Sat Jul 29 2023 10:57:42 [Geonoic] info: Database is connected successfully
+Sat Jul 29 2023 10:57:42 [Geonoic] info: Application listening on port 5000

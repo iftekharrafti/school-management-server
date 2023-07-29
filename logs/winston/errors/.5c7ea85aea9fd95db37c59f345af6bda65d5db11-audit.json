@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "F:\\nij_work\\jhankar_vai\\Next-level-course\\School-management-service\\school-management-server\\logs\\winston\\errors\\.5c7ea85aea9fd95db37c59f345af6bda65d5db11-audit.json",
+    "files": [
+        {
+            "date": 1690607254071,
+            "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\School-management-service\\school-management-server\\logs\\winston\\errors\\GN-2023-07-29-11-error.log",
+            "hash": "806e52e2c8922ffe7de6aa27577c22619ce8bc922a16949e3c2049dcb3b366eb"
+        }
+    ],
+    "hashType": "sha256"
+}
