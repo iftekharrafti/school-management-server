@@ -6,34 +6,29 @@
     "auditLog": "F:\\nij_work\\jhankar_vai\\Next-level-course\\School-management-service\\school-management-server\\logs\\winston\\successs\\.d1266cdd57850eb3e3f55849c4a2d9c838f9a983-audit.json",
     "files": [
         {
-            "date": 1690607254000,
-            "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\School-management-service\\school-management-server\\logs\\winston\\successs\\GN-2023-07-29-11-success.log",
-            "hash": "d079ec34fc982ab1e9a3dd6f0839f7abe4cfc5f7c35b556b0baa9d059c5ad9b8"
-        },
-        {
-            "date": 1690630979968,
-            "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\School-management-service\\school-management-server\\logs\\winston\\successs\\GN-2023-07-29-17-success.log",
-            "hash": "3ff35b633c486ba8c947b4e160a2acfc3b4cc077496a6923062a452277295561"
-        },
-        {
-            "date": 1690632224138,
-            "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\School-management-service\\school-management-server\\logs\\winston\\successs\\GN-2023-07-29-18-success.log",
-            "hash": "f65ce4d2c5c663940a06cdec2e59e8104d1ffb0ab3a649cb6401ac9020326666"
-        },
-        {
-            "date": 1690635709583,
-            "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\School-management-service\\school-management-server\\logs\\winston\\successs\\GN-2023-07-29-19-success.log",
-            "hash": "86594be0eb2c65a5952dbe608f6d41cbb9a406bfac4b8503112e17192c63c74a"
-        },
-        {
-            "date": 1690650565896,
-            "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\School-management-service\\school-management-server\\logs\\winston\\successs\\GN-2023-07-29-23-success.log",
-            "hash": "6534451291310912c05bff1cb5713096415b19d234184520f9c5ddfa16513f7b"
-        },
-        {
             "date": 1691323295563,
             "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\School-management-service\\school-management-server\\logs\\winston\\successs\\GN-2023-08-06-18-success.log",
             "hash": "7c1b663a570fc665d3cccbca5d0e9fc87628e9f9b4f2d559c9b6d4a9dfcb212b"
+        },
+        {
+            "date": 1691470164524,
+            "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\School-management-service\\school-management-server\\logs\\winston\\successs\\GN-2023-08-08-10-success.log",
+            "hash": "6ea7247a711f13dc9792e5ef3d3bdf58ba0d9e40232577b1ca322dc46f52b16c"
+        },
+        {
+            "date": 1691475126326,
+            "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\School-management-service\\school-management-server\\logs\\winston\\successs\\GN-2023-08-08-12-success.log",
+            "hash": "98b06b866e3efee6463656b7f2331e5402dfdb5fda96bf03169c0727ba850983"
+        },
+        {
+            "date": 1691558719128,
+            "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\School-management-service\\school-management-server\\logs\\winston\\successs\\GN-2023-08-09-11-success.log",
+            "hash": "f4d1ec76fd32ba9701907b70ce0e43b68208836927a9918c71d7a18d9c1ce8ac"
+        },
+        {
+            "date": 1691902899207,
+            "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\School-management-service\\school-management-server\\logs\\winston\\successs\\GN-2023-08-13-11-success.log",
+            "hash": "823755cd7e89f27ab67a4ea0b4b2c9db1271c2f15f945cfa7ce484dd5316cff1"
         }
     ],
     "hashType": "sha256"
