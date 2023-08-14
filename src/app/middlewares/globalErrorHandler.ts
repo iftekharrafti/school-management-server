@@ -7,6 +7,7 @@ import handleValidationError from '../../error/handleValidationError'
 import { errorLogger } from '../../shared/logger'
 import { ZodError } from 'zod'
 import handleZodError from '../../error/handleZodError'
+import handleCastError from '../../error/handleCastError'
 
 const globalErrorHandler: ErrorRequestHandler = (err, req, res, next) => {
   config.env === 'development'
@@ -25,6 +26,11 @@ const globalErrorHandler: ErrorRequestHandler = (err, req, res, next) => {
   } else if (err instanceof ZodError) {
     /****** Handle Zod Error ******/
     const simplifiedError = handleZodError(err)
+    statusCode = simplifiedError.statusCode
+    message = simplifiedError.message
+    errorMessages = simplifiedError.errorMessages
+  } else if (err?.name === 'CastError') {
+    const simplifiedError = handleCastError(err)
     statusCode = simplifiedError.statusCode
     message = simplifiedError.message
     errorMessages = simplifiedError.errorMessages
